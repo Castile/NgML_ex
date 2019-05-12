@@ -1,0 +1,8 @@
+LIBRARY squareThisNumber_mex.mexw64
+EXPORTS
+mexFunction
+emlrtMexFcnProperties
+squareThisNumber
+squareThisNumber_initialize
+squareThisNumber_terminate
+squareThisNumber_atexit
